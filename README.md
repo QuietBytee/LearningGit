@@ -1,2 +1,4 @@
 # LearningGit
-This is my first git repository
+This is my first Git Repository.
+Author - Kritika Arora
+
